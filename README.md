@@ -1,8 +1,10 @@
-- 👋 Hi, I’m Abhishek Marwal 
+- 👋 Hi, I’m **Abhishek Marwal** 
 - 👀 I’m interested in Frontend Dev
-- 🌱 I’m currently learning UI/UX 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning *UI/UX*, *Single Page Applications*
+- 💞️ I’m looking to collaborate on FRONTEND PROJECTS
+- 📫 LINKDEIN: [Profile Link](www.linkedin.com/in/abhishek-marwal-4772001a1)
+
+
 
 <!---
 marwalabhi/marwalabhi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
