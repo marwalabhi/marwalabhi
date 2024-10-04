@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Abhishek Marwal 
-- 👀 I’m interested in Full Stack Development
+- 👀 I’m interested in Frontend Dev
 - 🌱 I’m currently learning UI/UX 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
