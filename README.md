@@ -2,7 +2,7 @@
 - 👀 I’m interested in Frontend Dev
 - 🌱 I’m currently learning *UI/UX*, *Single Page Applications*
 - 💞️ I’m looking to collaborate on FRONTEND PROJECTS
-- 📫 LINKDEIN: [Profile Link](www.linkedin.com/in/abhishek-marwal-4772001a1)
+- 📫 LINKEDIN: [Profile Link](https://www.linkedin.com/in/abhishek-marwal-4772001a1)
 
 
 
